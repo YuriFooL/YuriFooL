@@ -1,4 +1,4 @@
-## Hi there 👋
+## HEY...Sou o Yuri, muitos me conhecem como FOOL!
 
 <!--
 **YuriFooL/YuriFooL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
