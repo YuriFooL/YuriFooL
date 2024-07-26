@@ -23,7 +23,7 @@
 
 --- 
 
-<img align="right" alt="fool-img" height="280" width="280" src="https://cdn.discordapp.com/attachments/1259494951943671828/1266192170625536111/download20240704204853.png?ex=66a440da&is=66a2ef5a&hm=061323c2a3bc6cacd2a88b66597c615ffd9f387485bbd3f5fc26440631ae8c51&">
+<img align="left" alt="fool-img" height="250" width="250" src="https://cdn.discordapp.com/attachments/1259494951943671828/1266192170625536111/download20240704204853.png?ex=66a440da&is=66a2ef5a&hm=061323c2a3bc6cacd2a88b66597c615ffd9f387485bbd3f5fc26440631ae8c51&">
 
 
 ## 🚀 Minhas Skills
