@@ -1,5 +1,9 @@
 ## HEY...Sou o Yuri, muitos me conhecem como FOOL!
 
+
+[![card](https://github-readme-stats.vercel.app/api?username=YuriFooL&theme=Tokyonight_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriFooL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="fool-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="fool-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
