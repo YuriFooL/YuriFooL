@@ -1,7 +1,7 @@
 ## HEY...Sou o Yuri, muitos me conhecem como FOOL!
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=YuriFooL&theme=Tokyonight_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=YuriFooL&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriFooL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
