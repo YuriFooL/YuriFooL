@@ -1,4 +1,5 @@
-## HEY...Sou o Yuri, muitos me conhecem como FOOL!
+
+<img align="right" src="https://profile-counter.glitch.me/YuriFooL/count.svg?"  />
 
 ### ⚙️ GitHub Analytics 
 
@@ -52,13 +53,9 @@
 
 <img src="https://raw.githubusercontent.com/YuriFooL/YuriFooL/output/snake.svg" alt="Snake animation" />
 
+##
 
-<br clear="both">
-
-<img align="right" src="https://profile-counter.glitch.me/YuriFooL/count.svg?"  />
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xrhrf2w63leht6ls4p2feleu6)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xrhrf2w63leht6ls4p2feleu6&unique={true|1|on|yes})
 
 ###
 
