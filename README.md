@@ -1,11 +1,12 @@
 ## HEY...Sou o Yuri, muitos me conhecem como FOOL!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="fool-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="fool-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="fool-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="fool-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="fool-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="fool-img" src="https://discord.com/channels/@me/1259494951943671828/1266192170885578784">
 </div>
  
   ##
@@ -18,16 +19,4 @@
   
 </div>
 
-  ##
 
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriFooL)](https://github.com/YuriFooL/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriFooL&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriFooL&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriFooL&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriFooL&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriFooL&show_icons=true&bg_color=00000000)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YuriFooL&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/YuriFooL/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=YuriFooL&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/YuriFooL/github-readme-stats#gh-light-mode-only)
-
-</div>
