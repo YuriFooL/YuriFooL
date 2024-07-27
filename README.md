@@ -1,3 +1,4 @@
+## Hello World! Sou o yuri, muitos me conhecem como Fool, Prazer! ^^
 
 <img align="right" src="https://profile-counter.glitch.me/YuriFooL/count.svg?"  />
 
